@@ -1,0 +1,16 @@
+# This repository is for public project documentation.
+.env
+.env.*
+!.env.example
+auth.json
+accounts.json
+launcher-data/
+run/
+logs/
+*.log
+*.jfr
+*.jar
+*.blend
+*.blend1
+node_modules/
+NUR-LOKAL/
